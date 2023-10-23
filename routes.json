@@ -1,0 +1,6 @@
+{
+  "/api/*": "/$1",
+  "/policies/": "/policy",
+  "/policies/email/": "/policies",
+  "/auth-service/oauth/token/": "/login"
+}
