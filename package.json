@@ -3,6 +3,7 @@
     "json-server": "^0.17.4"
   },
   "scripts": {
+    "build": "npm i && tsc --build",
     "start": "node server.js"
   },
   "name": "mock_server",
