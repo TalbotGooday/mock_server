@@ -741,16 +741,23 @@
       "timeStamp": "2019-04-24T10:38:21.634Z"
     }
   },
-  "login": {
-    "userId": "2146",
-    "access_token": "eyJhbGciOiJSUzI1NiJ9.eyJhdWQiOlsicmVzdHNlcnZpY2UiXSwidXNlcl9pZCI6IjIxNzk0NiIsInVzZXJfbmFtZSI6IjIxNzk0NiIsInNjb3BlIjpbInJlYWQxxxxxxLCJleHAiOjE1NTYyNjU4ODcsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJqdGkiOiIwYTYwY2U3Yi1kNTVhLTRkMmMtODcyYy05ZDIyOTUwZmRkYmUiLCJjbGllbnRfaWQiOiJjbGllbnRhcHAifQ.jndHrLllWiBme5d6IyUF-3q2de1qsShvh-_4e5lZqdT4enCN1gohHB1ksrCqInSCOOyNsb4cgdaeY2qq9CgSa244vA3oTI97_I28F10GmEewi5lZoMpda5aiVDLlR4QoaRCRK5_K-Fu66FIsoJrB9r1gCdRKoJLaWaWkYhteAVhvDqnmD9ShRPuD2M_zQR6bunvjFWf8n5hvgGIAQ08AXU_AczFZRjOE9bsaQwR2TcGKHuS3DN-b5a5toBqAB8DgIadLoaQ4DqQnxBY2salm63b2IQU4MSIzp5Q3hbLnYu71IN1aHROhYOHl7S3PUGsT5MK4GP9RsTkOrR47UQAA8A",
-    "refresh_token": "eyJhbGciOiJSUzI1NiJ9.eyJhdWQiOlsicmVzdHNlcnZpY2UiXSwidXNlcl9pZCI6IjIxNzk0NiIsInVzZXJfbmFtZSI6IjIxNzk0NiIsInNjb3BlIjpbInJlYWQiLCJ3cml0ZSJdLCJhdGkiOiIwYTYwY2U3Yi1kNTVhLTRkMmMtODcyYy05ZDIyOTUwxxxxiOjE1NTc5OTM4ODcsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJqdGkiOiI1OGU5ZGI3ZS1lYzA1LTRkM2YtOTk0My0zYTI0YjA5OGU2OTkiLCJjbGllbnRfaWQiOiJjbGllbnRhcHAifQ.OuFxby7dKCmoknZ_1RgJrLVULimREnGArSBR3TKf5ExWOBaNVO22S5EFXhW0DnPzT-D1MP9aVEVqzHl1torTa0lPWom2lPLEbdzQW8E4ZquLY-bL32eNIgUSvl9URuwuFKaCG8e1_6GZuUSnmI03kREBxALcxRBpz35cDprBSNWymy6SLiP_SYB8HyMGbfKzZRJOeBi_OOV4Suvwlr72Gmg-mvVQc0Lsh6q_mfI2-oGsn4I4cgUe_M_l_uJ0L5mx9yAWBGGT8O5SgDb_GQz54GtdNcV3PPejo-Dv7IFUJZpFMcwAQthSu7dTbDdRsV21XpmXroab4RJ9S8K1cX82aA",
-    "token_type": "bearer",
-    "expires_in": 86399,
-    "validationResult": {
-      "code": "000",
-      "message": "No error",
-      "timeStamp": "2019-04-25T08:04:47.526Z"
+  "users": [
+    {
+      "id": "sample"
     }
-  }
+  ],
+  "login": [
+    {
+      "userId": "sample",
+      "access_token": "eyJhbGciOiJSUzI1NiJ9.eyJhdWQiOlsicmVzdHNlcnZpY2UiXSwidXNlcl9pZCI6IjIxNzk0NiIsInVzZXJfbmFtZSI6IjIxNzk0NiIsInNjb3BlIjpbInJlYWQxxxxxxLCJleHAiOjE1NTYyNjU4ODcsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJqdGkiOiIwYTYwY2U3Yi1kNTVhLTRkMmMtODcyYy05ZDIyOTUwZmRkYmUiLCJjbGllbnRfaWQiOiJjbGllbnRhcHAifQ.jndHrLllWiBme5d6IyUF-3q2de1qsShvh-_4e5lZqdT4enCN1gohHB1ksrCqInSCOOyNsb4cgdaeY2qq9CgSa244vA3oTI97_I28F10GmEewi5lZoMpda5aiVDLlR4QoaRCRK5_K-Fu66FIsoJrB9r1gCdRKoJLaWaWkYhteAVhvDqnmD9ShRPuD2M_zQR6bunvjFWf8n5hvgGIAQ08AXU_AczFZRjOE9bsaQwR2TcGKHuS3DN-b5a5toBqAB8DgIadLoaQ4DqQnxBY2salm63b2IQU4MSIzp5Q3hbLnYu71IN1aHROhYOHl7S3PUGsT5MK4GP9RsTkOrR47UQAA8A",
+      "refresh_token": "eyJhbGciOiJSUzI1NiJ9.eyJhdWQiOlsicmVzdHNlcnZpY2UiXSwidXNlcl9pZCI6IjIxNzk0NiIsInVzZXJfbmFtZSI6IjIxNzk0NiIsInNjb3BlIjpbInJlYWQiLCJ3cml0ZSJdLCJhdGkiOiIwYTYwY2U3Yi1kNTVhLTRkMmMtODcyYy05ZDIyOTUwxxxxiOjE1NTc5OTM4ODcsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJqdGkiOiI1OGU5ZGI3ZS1lYzA1LTRkM2YtOTk0My0zYTI0YjA5OGU2OTkiLCJjbGllbnRfaWQiOiJjbGllbnRhcHAifQ.OuFxby7dKCmoknZ_1RgJrLVULimREnGArSBR3TKf5ExWOBaNVO22S5EFXhW0DnPzT-D1MP9aVEVqzHl1torTa0lPWom2lPLEbdzQW8E4ZquLY-bL32eNIgUSvl9URuwuFKaCG8e1_6GZuUSnmI03kREBxALcxRBpz35cDprBSNWymy6SLiP_SYB8HyMGbfKzZRJOeBi_OOV4Suvwlr72Gmg-mvVQc0Lsh6q_mfI2-oGsn4I4cgUe_M_l_uJ0L5mx9yAWBGGT8O5SgDb_GQz54GtdNcV3PPejo-Dv7IFUJZpFMcwAQthSu7dTbDdRsV21XpmXroab4RJ9S8K1cX82aA",
+      "token_type": "bearer",
+      "expires_in": 86399,
+      "validationResult": {
+        "code": "000",
+        "message": "No error",
+        "timeStamp": "2019-04-25T08:04:47.526Z"
+      }
+    }
+  ]
 }
