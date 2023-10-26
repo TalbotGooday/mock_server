@@ -9,7 +9,8 @@ server.use(jsonServer.rewriter({
    '/api/*': '/$1',
    '/policies/': '/policy',
    '/policies/email/': '/policies',
-   '/auth-service/oauth/token\\?*': '/users/sample/login?singular=1'
+   '/auth-service/oauth/token\\?*': '/users/sample/login?singular=1',
+   '/TravelSmart-Allyz-bff/1.0/initialization-data': '/initialization-data',
 }))
 
 server.use(jsonServer.bodyParser)
