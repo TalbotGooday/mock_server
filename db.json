@@ -1153,5 +1153,35 @@
         }
       ]
     }
-  ]
+  ],
+  "profile": {
+    "id": 10744,
+    "firstName": "Netherlands",
+    "lastName": "Travel Premium",
+    "email": "amtravelnl@yopmail.com",
+    "phone": "+31123456786",
+    "language": "en-US",
+    "residence": "US",
+    "profileStatus": "ACTIVE",
+    "membershipStatus": "PLUS",
+    "premiumStart": "2023-08-31",
+    "premiumEnd": "2024-12-31",
+    "created": "2023-08-31T13:40:20.046387",
+    "lastChange": "2023-10-16T17:26:09.009512",
+    "firstAccess": "2023-08-31T13:42:39.982711",
+    "lastAccess": "2023-10-27T12:33:05.710417",
+    "identificationMethod": "email",
+    "membershipDuration": 489,
+    "noOfCoTravellers": 0,
+    "registrationSource": "allyz.com",
+    "signUpType": "REGULAR_REGISTRATION",
+    "termsAndConditions": true,
+    "consents": [
+      {
+        "consentType": "MARKETING",
+        "consentValue": false,
+        "partnerName": "ONE_TRUST"
+      }
+    ]
+  }
 }

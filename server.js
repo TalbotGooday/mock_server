@@ -11,6 +11,7 @@ server.use(jsonServer.rewriter({
    '/policies/email/\\?*': '/policies',
    '/auth-service/oauth/token\\?*': '/users/sample/login?singular=1',
    '/TravelSmart-Allyz-bff/1.0/initialization-data': '/initialization-data',
+   'TravelSmart-Trip-bff/1.0/profile': '/profile',
 }))
 
 server.use(jsonServer.bodyParser)
