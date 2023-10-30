@@ -13,7 +13,7 @@ server.use(jsonServer.rewriter({
    '/auth-service/oauth/token\\?*': '/users/sample/login?singular=1',
    '/TravelSmart-Allyz-bff/1.0/initialization-data': '/initialization-data',
    '/TravelSmart-Trip-bff/1.0/profile': '/profile',
-   '/add_policy': '/policy'
+   '/add_policy\\?*': '/policy'
 }))
 
 server.use(jsonServer.bodyParser)
