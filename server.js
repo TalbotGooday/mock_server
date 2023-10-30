@@ -7,12 +7,11 @@ const port = process.env.PORT || 3000
 
 server.use(jsonServer.rewriter({
    '/api/*': '/$1',
-   '/policies/\\?*': '/policy',
-   '/policies/email/\\?*': '/policies',
+   '/policies\\?*': '/policies_list',
    '/auth-service/oauth/token\\?*': '/users/sample/login?singular=1',
    '/TravelSmart-Allyz-bff/1.0/initialization-data': '/initialization-data',
-   'TravelSmart-Trip-bff/1.0/profile': '/profile',
-   'https://attractive-ruby-dalmatian.cyclic.app/api/policies?policyId=111111&policyDate=&dateType=': '/policy'
+   '/TravelSmart-Trip-bff/1.0/profile': '/profile',
+   '/add_policy': '/policy'
 }))
 
 server.use(jsonServer.bodyParser)
