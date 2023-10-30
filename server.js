@@ -7,8 +7,9 @@ const port = process.env.PORT || 3000
 
 server.use(jsonServer.rewriter({
    '/api/*': '/$1',
-   '/policies\\?*': '/policies_list',
    '/policies/email\\?*': '/policies_list',
+   '/policies/email/\\?*': '/policies_list',
+   '/policies\\?*': '/policies_list',
    '/auth-service/oauth/token\\?*': '/users/sample/login?singular=1',
    '/TravelSmart-Allyz-bff/1.0/initialization-data': '/initialization-data',
    '/TravelSmart-Trip-bff/1.0/profile': '/profile',
