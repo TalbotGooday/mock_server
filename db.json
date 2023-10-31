@@ -5,7 +5,7 @@
         "policyNumber": "EUSU2013057851",
         "contractInterval": {
           "start": "2018-05-25",
-          "end": "2018-08-31"
+          "end": "2044-08-31"
         },
         "coverages": [
           {
@@ -185,8 +185,8 @@
       {
         "policyNumber": "EUSU2013051030",
         "contractInterval": {
-          "start": "2023-10-30",
-          "end": "2024-10-30"
+          "start": "2018-10-30",
+          "end": "2019-10-30"
         },
         "coverages": [
           {
@@ -367,7 +367,7 @@
         "policyNumber": "EUSU2013057852",
         "contractInterval": {
           "start": "2018-05-25",
-          "end": "2032-08-31"
+          "end": "2019-08-31"
         },
         "coverages": [
           {
@@ -537,7 +537,7 @@
           }
         ],
         "status": "1",
-        "productOfferingName": "AllTrips Basic",
+        "productOfferingName": "Event Ticket Protector",
         "productOfferingDescription": "modificationsAllowed\": false; claimsAllowed\": false, \"cancellationAllowed\": false",
         "purchaseDate": "2018-01-22",
         "modificationsAllowed": false,
@@ -729,7 +729,7 @@
         "policyNumber": "EUSU2013057612",
         "contractInterval": {
           "start": "2019-01-01",
-          "end": "2022-08-31"
+          "end": "2024-08-31"
         },
         "coverages": [
           {
