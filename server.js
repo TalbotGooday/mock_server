@@ -14,7 +14,8 @@ server.use(jsonServer.rewriter({
    '/TravelSmart-Allyz-bff/1.0/initialization-data': '/initialization-data',
    '/TravelSmart-Trip-bff/1.0/profile': '/profile',
    '/add_policy\\?*': '/policy',
-   '/add_policy/\\?*': '/policy'
+   '/add_policy/\\?*': '/policy',
+   '/claims/\\?*': '/claims',
 }))
 
 server.use(jsonServer.bodyParser)
