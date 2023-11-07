@@ -1487,9 +1487,9 @@
         {
           "policyNumber": "US0382341",
           "claimNumber": "0000999399",
-          "claimClassId": "Trip Cancellation",
-          "claimStatus": "Open",
-          "creationDate": "2018-11-27"
+          "claimClassId": "More info needed",
+          "claimStatus": "Final review",
+          "creationDate": "2020-09-20"
         }
       ]
     },
@@ -1499,8 +1499,8 @@
           "policyNumber": "US0373571",
           "claimNumber": "0000665399",
           "claimClassId": "Trip Cancellation",
-          "claimStatus": "Open",
-          "creationDate": "2018-11-27"
+          "claimStatus": "Reviewed",
+          "creationDate": "2018-12-27"
         }
       ]
     },
@@ -1509,9 +1509,53 @@
         {
           "policyNumber": "US0381231",
           "claimNumber": "0007777399",
-          "claimClassId": "Trip Cancellation",
-          "claimStatus": "Open",
-          "creationDate": "2018-11-27"
+          "claimClassId": "Ticket Cancellation, Missed Event, or Activity",
+          "claimStatus": "Final review",
+          "creationDate": "2018-10-27"
+        }
+      ]
+    },
+    {
+      "claimDetail": [
+        {
+          "policyNumber": "US0381231",
+          "claimNumber": "0009997399",
+          "claimClassId": "Loyalty Program Redeposit Fee Coverage",
+          "claimStatus": "More info needed",
+          "creationDate": "2019-10-27"
+        }
+      ]
+    },
+    {
+      "claimDetail": [
+        {
+          "policyNumber": "US0382341",
+          "claimNumber": "0008885399",
+          "claimClassId": "Electronic and/or Sport Equipment Rental",
+          "claimStatus": "Completed",
+          "creationDate": "2023-07-17"
+        }
+      ]
+    },
+    {
+      "claimDetail": [
+        {
+          "policyNumber": "US0381231",
+          "claimNumber": "0001115399",
+          "claimClassId": "Medical Evacuation",
+          "claimStatus": "Initiated",
+          "creationDate": "2022-07-17"
+        }
+      ]
+    },
+    {
+      "claimDetail": [
+        {
+          "policyNumber": "US0381231",
+          "claimNumber": "0001115399",
+          "claimClassId": "Transport After Evacuation",
+          "claimStatus": "Reviewed",
+          "creationDate": "2022-08-07"
         }
       ]
     }
