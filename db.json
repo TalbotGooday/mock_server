@@ -726,7 +726,7 @@
         "cancellationAllowed": false
       },
       {
-        "policyNumber": "EUSU2013057853",
+        "policyNumber": "EUSU2178142834",
         "contractInterval": {
           "start": "2023-10-30",
           "end": "2033-02-24"
@@ -901,7 +901,7 @@
         "status": "1",
         "productOfferingName": "Event Ticket Protector",
         "productOfferingDescription": "modificationsAllowed\": true; claimsAllowed\": true, \"cancellationAllowed\": true",
-        "purchaseDate": "2018-05-23",
+        "purchaseDate": "2023-11-09",
         "modificationsAllowed": true,
         "claimsAllowed": true,
         "cancellationAllowed": true
