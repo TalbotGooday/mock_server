@@ -726,7 +726,7 @@
         "cancellationAllowed": false
       },
       {
-        "policyNumber": "EUSU2178142834",
+        "policyNumber": "EUSU2178157771",
         "contractInterval": {
           "start": "2023-10-30",
           "end": "2033-02-24"
@@ -901,7 +901,7 @@
         "status": "1",
         "productOfferingName": "Event Ticket Protector",
         "productOfferingDescription": "modificationsAllowed\": true; claimsAllowed\": true, \"cancellationAllowed\": true",
-        "purchaseDate": "2023-11-09",
+        "purchaseDate": "2023-11-15",
         "modificationsAllowed": true,
         "claimsAllowed": true,
         "cancellationAllowed": true
@@ -1484,11 +1484,11 @@
   "claims": {
     "claimDetail": [
       {
-        "policyNumber": "EUSU2013051030",
-        "claimNumber": "0000999399",
+        "policyNumber": "EUSU2178157771",
+        "claimNumber": "0007110533",
         "claimClassId": "Electronic and/or Sport Equipment Rental",
         "claimStatus": "Final review",
-        "creationDate": "2020-09-20"
+        "creationDate": "2023-10-15"
       },
       {
         "policyNumber": "EUSU2013051030",
