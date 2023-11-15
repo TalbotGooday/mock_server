@@ -1484,11 +1484,11 @@
   "claims": {
     "claimDetail": [
       {
-        "policyNumber": "EUSU2178157771",
-        "claimNumber": "0007110533",
+        "policyNumber": "EUSU2013051030",
+        "claimNumber": "0000999399",
         "claimClassId": "Electronic and/or Sport Equipment Rental",
         "claimStatus": "Final review",
-        "creationDate": "2023-10-15"
+        "creationDate": "2020-09-20"
       },
       {
         "policyNumber": "EUSU2013051030",
@@ -1519,11 +1519,11 @@
         "creationDate": "2023-07-17"
       },
       {
-        "policyNumber": "EUSU2178142834",
-        "claimNumber": "0001115399",
+        "policyNumber": "EUSU2178157771",
+        "claimNumber": "0007110533",
         "claimClassId": "Medical Evacuation",
         "claimStatus": "Initiated",
-        "creationDate": "2022-07-17"
+        "creationDate": "2023-10-15"
       },
       {
         "policyNumber": "EUSU2013057612",
