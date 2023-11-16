@@ -2,6 +2,187 @@
   "policies_list": {
     "policy": [
       {
+        "policyNumber": "EUSU2178159927",
+        "contractInterval": {
+          "start": "2023-10-30",
+          "end": "2033-02-24"
+        },
+        "coverages": [
+          {
+            "name": "24-Hr Hotline Assistance Plus",
+            "insuranceSum": "Included",
+            "coverageItems": [
+              {
+                "insuredObjects": [
+                  {
+                    "firstName": "Alex",
+                    "lastName": "Ridey"
+                  }
+                ]
+              }
+            ],
+            "description": "With Allianz Global Assistance, you'll never travel alone. Our multilingual assistance team is available 24 hours a day to help you handle covered travel emergencies. We can help you find local medical and legal professionals, arrange to send a message home, help re-book your flight and/or hotel arrangements, help with missed connections, lost/stolen travel documents, and much more."
+          },
+          {
+            "name": "Emergency Medical Coverage",
+            "insuranceSum": "$25,000.00",
+            "coverageItems": [
+              {
+                "insuredObjects": [
+                  {
+                    "firstName": "Alex",
+                    "lastName": "Ridey"
+                  }
+                ]
+              }
+            ],
+            "description": "Provides benefits for losses due to covered medical and dental emergencies that occur during your trip. Depending on your plan, there is a $500 or $750 maximum for all covered dental expenses."
+          },
+          {
+            "name": "Baggage Delay",
+            "insuranceSum": "$300.00",
+            "coverageItems": [
+              {
+                "insuredObjects": [
+                  {
+                    "firstName": "Alex",
+                    "lastName": "Ridey"
+                  }
+                ]
+              }
+            ],
+            "description": "Reimburses the reasonable additional purchase of essential items during your trip if your baggage is delayed or misdirected by a common carrier for 24 hours or more. Receipts for emergency purchases are required."
+          },
+          {
+            "name": "Baggage Loss/Damage",
+            "insuranceSum": "$1,000.00",
+            "coverageItems": [
+              {
+                "insuredObjects": [
+                  {
+                    "firstName": "Alex",
+                    "lastName": "Ridey"
+                  }
+                ]
+              }
+            ],
+            "description": "Covers loss, damage or theft of baggage and personal effects."
+          },
+          {
+            "name": "Trip Interruption",
+            "insuranceSum": "$1,500.00",
+            "coverageItems": [
+              {
+                "insuredObjects": [
+                  {
+                    "firstName": "Alex",
+                    "lastName": "Ridey"
+                  }
+                ]
+              }
+            ],
+            "description": "Reimburses you for the unused, non-refundable portion of your trip and for the increased transportation costs it takes for you to return home due to a covered reason."
+          },
+          {
+            "name": "Travel Delay",
+            "insuranceSum": "$800.00",
+            "coverageItems": [
+              {
+                "insuredObjects": [
+                  {
+                    "firstName": "Alex",
+                    "lastName": "Ridey"
+                  }
+                ]
+              }
+            ],
+            "description": "Reimburses you for additional expenses due to a covered delay of six hours or more.  Some plans may also cover lost prepaid trip expenses due to covered travel delay, depending on the product and state.  Please see your insuring agreement to verify whether your insurance plan includes this coverage. "
+          },
+          {
+            "name": "Frequent Traveler Loyalty Plan",
+            "insuranceSum": "$250.00",
+            "coverageItems": [
+              {
+                "insuredObjects": [
+                  {
+                    "firstName": "Alex",
+                    "lastName": "Ridey"
+                  }
+                ]
+              }
+            ],
+            "description": "Coverage for frequent flyer mile redeposit fees in the event of a covered trip cancellation."
+          },
+          {
+            "name": "Missed Connection",
+            "insuranceSum": "$800.00",
+            "coverageItems": [
+              {
+                "insuredObjects": [
+                  {
+                    "firstName": "Alex",
+                    "lastName": "Ridey"
+                  }
+                ]
+              }
+            ],
+            "description": "Reimburses expenses resulting from a covered delay that causes you to miss your scheduled flight or cruise."
+          },
+          {
+            "name": "Change Fee Coverage",
+            "insuranceSum": "$250.00",
+            "coverageItems": [
+              {
+                "insuredObjects": [
+                  {
+                    "firstName": "Alex",
+                    "lastName": "Ridey"
+                  }
+                ]
+              }
+            ],
+            "description": "Provides reimbursement for fees to change the dates on your airline ticket."
+          },
+          {
+            "name": "Emergency Medical Transportation",
+            "insuranceSum": "$500,000.00",
+            "coverageItems": [
+              {
+                "insuredObjects": [
+                  {
+                    "firstName": "Alex",
+                    "lastName": "Ridey"
+                  }
+                ]
+              }
+            ],
+            "description": "Provides medically necessary transportation to the nearest hospital or appropriate facility following a covered illness or injury."
+          },
+          {
+            "name": "Trip Cancellation",
+            "insuranceSum": "$1,000.00",
+            "coverageItems": [
+              {
+                "insuredObjects": [
+                  {
+                    "firstName": "Alex",
+                    "lastName": "Ridey"
+                  }
+                ]
+              }
+            ],
+            "description": "Reimburses your prepaid, non-refundable expenses if you must cancel your trip due to a covered reason.  "
+          }
+        ],
+        "status": "1",
+        "productOfferingName": "Event Ticket Protector",
+        "productOfferingDescription": "modificationsAllowed\": true; claimsAllowed\": true, \"cancellationAllowed\": true",
+        "purchaseDate": "2023-11-16",
+        "modificationsAllowed": true,
+        "claimsAllowed": true,
+        "cancellationAllowed": true
+      },
+      {
         "policyNumber": "EUSU2013057851",
         "contractInterval": {
           "start": "2023-11-03",
@@ -724,187 +905,6 @@
         "modificationsAllowed": false,
         "claimsAllowed": false,
         "cancellationAllowed": false
-      },
-      {
-        "policyNumber": "EUSU2178157771",
-        "contractInterval": {
-          "start": "2023-10-30",
-          "end": "2033-02-24"
-        },
-        "coverages": [
-          {
-            "name": "24-Hr Hotline Assistance Plus",
-            "insuranceSum": "Included",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "With Allianz Global Assistance, you'll never travel alone. Our multilingual assistance team is available 24 hours a day to help you handle covered travel emergencies. We can help you find local medical and legal professionals, arrange to send a message home, help re-book your flight and/or hotel arrangements, help with missed connections, lost/stolen travel documents, and much more."
-          },
-          {
-            "name": "Emergency Medical Coverage",
-            "insuranceSum": "$25,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides benefits for losses due to covered medical and dental emergencies that occur during your trip. Depending on your plan, there is a $500 or $750 maximum for all covered dental expenses."
-          },
-          {
-            "name": "Baggage Delay",
-            "insuranceSum": "$300.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses the reasonable additional purchase of essential items during your trip if your baggage is delayed or misdirected by a common carrier for 24 hours or more. Receipts for emergency purchases are required."
-          },
-          {
-            "name": "Baggage Loss/Damage",
-            "insuranceSum": "$1,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Covers loss, damage or theft of baggage and personal effects."
-          },
-          {
-            "name": "Trip Interruption",
-            "insuranceSum": "$1,500.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses you for the unused, non-refundable portion of your trip and for the increased transportation costs it takes for you to return home due to a covered reason."
-          },
-          {
-            "name": "Travel Delay",
-            "insuranceSum": "$800.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses you for additional expenses due to a covered delay of six hours or more.  Some plans may also cover lost prepaid trip expenses due to covered travel delay, depending on the product and state.  Please see your insuring agreement to verify whether your insurance plan includes this coverage. "
-          },
-          {
-            "name": "Frequent Traveler Loyalty Plan",
-            "insuranceSum": "$250.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Coverage for frequent flyer mile redeposit fees in the event of a covered trip cancellation."
-          },
-          {
-            "name": "Missed Connection",
-            "insuranceSum": "$800.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses expenses resulting from a covered delay that causes you to miss your scheduled flight or cruise."
-          },
-          {
-            "name": "Change Fee Coverage",
-            "insuranceSum": "$250.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides reimbursement for fees to change the dates on your airline ticket."
-          },
-          {
-            "name": "Emergency Medical Transportation",
-            "insuranceSum": "$500,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides medically necessary transportation to the nearest hospital or appropriate facility following a covered illness or injury."
-          },
-          {
-            "name": "Trip Cancellation",
-            "insuranceSum": "$1,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses your prepaid, non-refundable expenses if you must cancel your trip due to a covered reason.  "
-          }
-        ],
-        "status": "1",
-        "productOfferingName": "Event Ticket Protector",
-        "productOfferingDescription": "modificationsAllowed\": true; claimsAllowed\": true, \"cancellationAllowed\": true",
-        "purchaseDate": "2023-11-15",
-        "modificationsAllowed": true,
-        "claimsAllowed": true,
-        "cancellationAllowed": true
       },
       {
         "policyNumber": "EUSU2013057612",
