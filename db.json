@@ -1,1572 +1,2439 @@
 {
-  "policies_list": {
-    "policy": [
+  "hospital": {
+    "facilities": [
       {
-        "policyNumber": "EUSU2178159927",
-        "contractInterval": {
-          "start": "2023-10-30",
-          "end": "2033-02-24"
+        "facilityName": "CLINIQUE DE L'ALMA",
+        "facilityLocalName": "CLINIQUE DE L'ALMA",
+        "facilityType": "HOSPITAL",
+        "facilityId": "28059",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "166 RUE DE L'UNIVERSITE",
+          "zipCode": "75007",
+          "latitude": 48.8612134,
+          "longitude": 2.3056255,
+          "distanceToFacility": 0.87,
+          "distanceUnit": "km"
         },
-        "coverages": [
+        "specialties": [
           {
-            "name": "24-Hr Hotline Assistance Plus",
-            "insuranceSum": "Included",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "With Allianz Global Assistance, you'll never travel alone. Our multilingual assistance team is available 24 hours a day to help you handle covered travel emergencies. We can help you find local medical and legal professionals, arrange to send a message home, help re-book your flight and/or hotel arrangements, help with missed connections, lost/stolen travel documents, and much more."
-          },
-          {
-            "name": "Emergency Medical Coverage",
-            "insuranceSum": "$25,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides benefits for losses due to covered medical and dental emergencies that occur during your trip. Depending on your plan, there is a $500 or $750 maximum for all covered dental expenses."
-          },
-          {
-            "name": "Baggage Delay",
-            "insuranceSum": "$300.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses the reasonable additional purchase of essential items during your trip if your baggage is delayed or misdirected by a common carrier for 24 hours or more. Receipts for emergency purchases are required."
-          },
-          {
-            "name": "Baggage Loss/Damage",
-            "insuranceSum": "$1,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Covers loss, damage or theft of baggage and personal effects."
-          },
-          {
-            "name": "Trip Interruption",
-            "insuranceSum": "$1,500.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses you for the unused, non-refundable portion of your trip and for the increased transportation costs it takes for you to return home due to a covered reason."
-          },
-          {
-            "name": "Travel Delay",
-            "insuranceSum": "$800.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses you for additional expenses due to a covered delay of six hours or more.  Some plans may also cover lost prepaid trip expenses due to covered travel delay, depending on the product and state.  Please see your insuring agreement to verify whether your insurance plan includes this coverage. "
-          },
-          {
-            "name": "Frequent Traveler Loyalty Plan",
-            "insuranceSum": "$250.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Coverage for frequent flyer mile redeposit fees in the event of a covered trip cancellation."
-          },
-          {
-            "name": "Missed Connection",
-            "insuranceSum": "$800.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses expenses resulting from a covered delay that causes you to miss your scheduled flight or cruise."
-          },
-          {
-            "name": "Change Fee Coverage",
-            "insuranceSum": "$250.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides reimbursement for fees to change the dates on your airline ticket."
-          },
-          {
-            "name": "Emergency Medical Transportation",
-            "insuranceSum": "$500,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides medically necessary transportation to the nearest hospital or appropriate facility following a covered illness or injury."
-          },
-          {
-            "name": "Trip Cancellation",
-            "insuranceSum": "$1,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses your prepaid, non-refundable expenses if you must cancel your trip due to a covered reason.  "
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
           }
-        ],
-        "status": "1",
-        "productOfferingName": "Event Ticket Protector",
-        "productOfferingDescription": "modificationsAllowed\": true; claimsAllowed\": true, \"cancellationAllowed\": true",
-        "purchaseDate": "2023-11-16",
-        "modificationsAllowed": true,
-        "claimsAllowed": true,
-        "cancellationAllowed": true
+        ]
       },
       {
-        "policyNumber": "EUSU2013057851",
-        "contractInterval": {
-          "start": "2023-11-03",
-          "end": "2044-08-31"
+        "facilityName": "ALMANESTHESIE",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "38545",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "Rue de l'Universite",
+          "doorNumber": "160",
+          "zipCode": "75007",
+          "latitude": 48.861301,
+          "longitude": 2.307131,
+          "distanceToFacility": 0.98,
+          "distanceUnit": "km"
         },
-        "coverages": [
+        "specialties": [
           {
-            "name": "24-Hr Hotline Assistance Plus",
-            "insuranceSum": "Included",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Bunny",
-                    "lastName": "Marthy"
-                  }
-                ]
-              }
-            ],
-            "description": "With Allianz Global Assistance, you'll never travel alone. Our multilingual assistance team is available 24 hours a day to help you handle covered travel emergencies. We can help you find local medical and legal professionals, arrange to send a message home, help re-book your flight and/or hotel arrangements, help with missed connections, lost/stolen travel documents, and much more."
-          },
-          {
-            "name": "Emergency Medical Coverage",
-            "insuranceSum": "$25,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides benefits for losses due to covered medical and dental emergencies that occur during your trip. Depending on your plan, there is a $500 or $750 maximum for all covered dental expenses."
-          },
-          {
-            "name": "Baggage Delay",
-            "insuranceSum": "$300.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Eva",
-                    "lastName": "Berger"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses the reasonable additional purchase of essential items during your trip if your baggage is delayed or misdirected by a common carrier for 24 hours or more. Receipts for emergency purchases are required."
-          },
-          {
-            "name": "Baggage Loss/Damage",
-            "insuranceSum": "$1,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Johnny",
-                    "lastName": "Castle"
-                  }
-                ]
-              }
-            ],
-            "description": "Covers loss, damage or theft of baggage and personal effects."
-          },
-          {
-            "name": "Trip Interruption",
-            "insuranceSum": "$1,500.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses you for the unused, non-refundable portion of your trip and for the increased transportation costs it takes for you to return home due to a covered reason."
-          },
-          {
-            "name": "Travel Delay",
-            "insuranceSum": "$800.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses you for additional expenses due to a covered delay of six hours or more.  Some plans may also cover lost prepaid trip expenses due to covered travel delay, depending on the product and state.  Please see your insuring agreement to verify whether your insurance plan includes this coverage. "
-          },
-          {
-            "name": "Frequent Traveler Loyalty Plan",
-            "insuranceSum": "$250.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Coverage for frequent flyer mile redeposit fees in the event of a covered trip cancellation."
-          },
-          {
-            "name": "Missed Connection",
-            "insuranceSum": "$800.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses expenses resulting from a covered delay that causes you to miss your scheduled flight or cruise."
-          },
-          {
-            "name": "Change Fee Coverage",
-            "insuranceSum": "$250.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides reimbursement for fees to change the dates on your airline ticket."
-          },
-          {
-            "name": "Emergency Medical Transportation",
-            "insuranceSum": "$500,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides medically necessary transportation to the nearest hospital or appropriate facility following a covered illness or injury."
-          },
-          {
-            "name": "Trip Cancellation",
-            "insuranceSum": "$1,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses your prepaid, non-refundable expenses if you must cancel your trip due to a covered reason.  "
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
           }
-        ],
-        "status": "1",
-        "productOfferingName": "OneTrip Prime",
-        "productOfferingDescription": "With Allianz Global Assistance, you'll never travel alone. Our multilingual assistance team is available 24 hours a day to help you handle covered travel emergencies. We can help you find local medical and legal professionals, arrange to send a message home, help re-book your flight and/or hotel arrangements, help with missed connections, lost/stolen travel documents, and much more.",
-        "purchaseDate": "2023-11-03",
-        "modificationsAllowed": false,
-        "claimsAllowed": true,
-        "cancellationAllowed": false
+        ]
       },
       {
-        "policyNumber": "EUSU2013051030",
-        "contractInterval": {
-          "start": "2018-10-30",
-          "end": "2019-10-30"
+        "facilityName": "CLINIQUE DU TROCADERO",
+        "facilityType": "HOSPITAL",
+        "facilityId": "47249",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "RUE DE LA TOUR",
+          "doorNumber": "62",
+          "zipCode": "75116",
+          "latitude": 48.860447,
+          "longitude": 2.280954,
+          "distanceToFacility": 1.04,
+          "distanceUnit": "km"
         },
-        "coverages": [
+        "specialties": [
           {
-            "name": "24-Hr Hotline Assistance Plus",
-            "insuranceSum": "Included",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "With Allianz Global Assistance, you'll never travel alone. Our multilingual assistance team is available 24 hours a day to help you handle covered travel emergencies. We can help you find local medical and legal professionals, arrange to send a message home, help re-book your flight and/or hotel arrangements, help with missed connections, lost/stolen travel documents, and much more."
-          },
-          {
-            "name": "Emergency Medical Coverage",
-            "insuranceSum": "$25,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides benefits for losses due to covered medical and dental emergencies that occur during your trip. Depending on your plan, there is a $500 or $750 maximum for all covered dental expenses."
-          },
-          {
-            "name": "Baggage Delay",
-            "insuranceSum": "$300.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses the reasonable additional purchase of essential items during your trip if your baggage is delayed or misdirected by a common carrier for 24 hours or more. Receipts for emergency purchases are required."
-          },
-          {
-            "name": "Baggage Loss/Damage",
-            "insuranceSum": "$1,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Covers loss, damage or theft of baggage and personal effects."
-          },
-          {
-            "name": "Trip Interruption",
-            "insuranceSum": "$1,500.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses you for the unused, non-refundable portion of your trip and for the increased transportation costs it takes for you to return home due to a covered reason."
-          },
-          {
-            "name": "Travel Delay",
-            "insuranceSum": "$800.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses you for additional expenses due to a covered delay of six hours or more.  Some plans may also cover lost prepaid trip expenses due to covered travel delay, depending on the product and state.  Please see your insuring agreement to verify whether your insurance plan includes this coverage. "
-          },
-          {
-            "name": "Frequent Traveler Loyalty Plan",
-            "insuranceSum": "$250.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Coverage for frequent flyer mile redeposit fees in the event of a covered trip cancellation."
-          },
-          {
-            "name": "Missed Connection",
-            "insuranceSum": "$800.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses expenses resulting from a covered delay that causes you to miss your scheduled flight or cruise."
-          },
-          {
-            "name": "Change Fee Coverage",
-            "insuranceSum": "$250.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides reimbursement for fees to change the dates on your airline ticket."
-          },
-          {
-            "name": "Emergency Medical Transportation",
-            "insuranceSum": "$500,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides medically necessary transportation to the nearest hospital or appropriate facility following a covered illness or injury."
-          },
-          {
-            "name": "Trip Cancellation",
-            "insuranceSum": "$1,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses your prepaid, non-refundable expenses if you must cancel your trip due to a covered reason.  "
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
           }
-        ],
-        "status": "1",
-        "productOfferingName": "AllTrips Basic",
-        "productOfferingDescription": "modificationsAllowed\": false; claimsAllowed\": false, \"cancellationAllowed\": false",
-        "purchaseDate": "2023-10-30",
-        "modificationsAllowed": false,
-        "claimsAllowed": false,
-        "cancellationAllowed": false
+        ]
       },
       {
-        "policyNumber": "EUSU2013051030",
-        "contractInterval": {
-          "start": "2018-10-30",
-          "end": "2055-10-30"
+        "facilityName": "CLINIQUE BIZET - DR FEES",
+        "facilityType": "HOSPITAL",
+        "facilityId": "42063",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Neuilly-sur-Seine",
+          "street": "Rue Georges Bizet",
+          "doorNumber": "21",
+          "zipCode": "75016",
+          "latitude": 48.867518,
+          "longitude": 2.297013,
+          "distanceToFacility": 1.06,
+          "distanceUnit": "km"
         },
-        "coverages": [
+        "specialties": [
           {
-            "name": "24-Hr Hotline Assistance Plus",
-            "insuranceSum": "Included",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "With Allianz Global Assistance, you'll never travel alone. Our multilingual assistance team is available 24 hours a day to help you handle covered travel emergencies. We can help you find local medical and legal professionals, arrange to send a message home, help re-book your flight and/or hotel arrangements, help with missed connections, lost/stolen travel documents, and much more."
-          },
-          {
-            "name": "Emergency Medical Coverage",
-            "insuranceSum": "$25,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides benefits for losses due to covered medical and dental emergencies that occur during your trip. Depending on your plan, there is a $500 or $750 maximum for all covered dental expenses."
-          },
-          {
-            "name": "Baggage Delay",
-            "insuranceSum": "$300.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses the reasonable additional purchase of essential items during your trip if your baggage is delayed or misdirected by a common carrier for 24 hours or more. Receipts for emergency purchases are required."
-          },
-          {
-            "name": "Baggage Loss/Damage",
-            "insuranceSum": "$1,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Covers loss, damage or theft of baggage and personal effects."
-          },
-          {
-            "name": "Trip Interruption",
-            "insuranceSum": "$1,500.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses you for the unused, non-refundable portion of your trip and for the increased transportation costs it takes for you to return home due to a covered reason."
-          },
-          {
-            "name": "Travel Delay",
-            "insuranceSum": "$800.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses you for additional expenses due to a covered delay of six hours or more.  Some plans may also cover lost prepaid trip expenses due to covered travel delay, depending on the product and state.  Please see your insuring agreement to verify whether your insurance plan includes this coverage. "
-          },
-          {
-            "name": "Frequent Traveler Loyalty Plan",
-            "insuranceSum": "$250.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Coverage for frequent flyer mile redeposit fees in the event of a covered trip cancellation."
-          },
-          {
-            "name": "Missed Connection",
-            "insuranceSum": "$800.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses expenses resulting from a covered delay that causes you to miss your scheduled flight or cruise."
-          },
-          {
-            "name": "Change Fee Coverage",
-            "insuranceSum": "$250.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides reimbursement for fees to change the dates on your airline ticket."
-          },
-          {
-            "name": "Emergency Medical Transportation",
-            "insuranceSum": "$500,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides medically necessary transportation to the nearest hospital or appropriate facility following a covered illness or injury."
-          },
-          {
-            "name": "Trip Cancellation",
-            "insuranceSum": "$1,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses your prepaid, non-refundable expenses if you must cancel your trip due to a covered reason.  "
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
           }
-        ],
-        "status": "1",
-        "productOfferingName": "AllTrips Basic",
-        "productOfferingDescription": "modificationsAllowed\": false; claimsAllowed\": false, \"cancellationAllowed\": false",
-        "purchaseDate": "2023-10-30",
-        "modificationsAllowed": false,
-        "claimsAllowed": false,
-        "cancellationAllowed": false
+        ]
       },
       {
-        "policyNumber": "EUSU2013057852",
-        "contractInterval": {
-          "start": "2018-05-25",
-          "end": "2019-08-31"
+        "facilityName": "CLINIQUE BIZET",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "47242",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Clamart",
+          "street": "Rue Georges Bizet",
+          "doorNumber": "23",
+          "zipCode": "75016",
+          "latitude": 48.86757,
+          "longitude": 2.296803,
+          "distanceToFacility": 1.06,
+          "distanceUnit": "km"
         },
-        "coverages": [
+        "specialties": [
           {
-            "name": "24-Hr Hotline Assistance Plus",
-            "insuranceSum": "Included",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "With Allianz Global Assistance, you'll never travel alone. Our multilingual assistance team is available 24 hours a day to help you handle covered travel emergencies. We can help you find local medical and legal professionals, arrange to send a message home, help re-book your flight and/or hotel arrangements, help with missed connections, lost/stolen travel documents, and much more."
-          },
-          {
-            "name": "Emergency Medical Coverage",
-            "insuranceSum": "$25,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides benefits for losses due to covered medical and dental emergencies that occur during your trip. Depending on your plan, there is a $500 or $750 maximum for all covered dental expenses."
-          },
-          {
-            "name": "Baggage Delay",
-            "insuranceSum": "$300.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses the reasonable additional purchase of essential items during your trip if your baggage is delayed or misdirected by a common carrier for 24 hours or more. Receipts for emergency purchases are required."
-          },
-          {
-            "name": "Baggage Loss/Damage",
-            "insuranceSum": "$1,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Covers loss, damage or theft of baggage and personal effects."
-          },
-          {
-            "name": "Trip Interruption",
-            "insuranceSum": "$1,500.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses you for the unused, non-refundable portion of your trip and for the increased transportation costs it takes for you to return home due to a covered reason."
-          },
-          {
-            "name": "Travel Delay",
-            "insuranceSum": "$800.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses you for additional expenses due to a covered delay of six hours or more.  Some plans may also cover lost prepaid trip expenses due to covered travel delay, depending on the product and state.  Please see your insuring agreement to verify whether your insurance plan includes this coverage. "
-          },
-          {
-            "name": "Frequent Traveler Loyalty Plan",
-            "insuranceSum": "$250.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Coverage for frequent flyer mile redeposit fees in the event of a covered trip cancellation."
-          },
-          {
-            "name": "Missed Connection",
-            "insuranceSum": "$800.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses expenses resulting from a covered delay that causes you to miss your scheduled flight or cruise."
-          },
-          {
-            "name": "Change Fee Coverage",
-            "insuranceSum": "$250.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides reimbursement for fees to change the dates on your airline ticket."
-          },
-          {
-            "name": "Emergency Medical Transportation",
-            "insuranceSum": "$500,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides medically necessary transportation to the nearest hospital or appropriate facility following a covered illness or injury."
-          },
-          {
-            "name": "Trip Cancellation",
-            "insuranceSum": "$1,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses your prepaid, non-refundable expenses if you must cancel your trip due to a covered reason.  "
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
           }
-        ],
-        "status": "1",
-        "productOfferingName": "Event Ticket Protector",
-        "productOfferingDescription": "modificationsAllowed\": false; claimsAllowed\": false, \"cancellationAllowed\": false",
-        "purchaseDate": "2018-01-22",
-        "modificationsAllowed": false,
-        "claimsAllowed": false,
-        "cancellationAllowed": false
+        ]
       },
       {
-        "policyNumber": "EUSU2013057612",
-        "contractInterval": {
-          "start": "2019-01-01",
-          "end": "2024-08-31"
+        "facilityName": "CLINIQUE DE LA MUETTE",
+        "facilityLocalName": "CLINIQUE DE LA MUETTE",
+        "facilityType": "HOSPITAL",
+        "facilityId": "31358",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "RUE NICOLO",
+          "doorNumber": "46-48",
+          "zipCode": "75016",
+          "latitude": 48.86062,
+          "longitude": 2.277881,
+          "distanceToFacility": 1.26,
+          "distanceUnit": "km"
         },
-        "coverages": [
+        "specialties": [
           {
-            "name": "24-Hr Hotline Assistance Plus",
-            "insuranceSum": "Included",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "With Allianz Global Assistance, you'll never travel alone. Our multilingual assistance team is available 24 hours a day to help you handle covered travel emergencies. We can help you find local medical and legal professionals, arrange to send a message home, help re-book your flight and/or hotel arrangements, help with missed connections, lost/stolen travel documents, and much more."
-          },
-          {
-            "name": "Emergency Medical Coverage",
-            "insuranceSum": "$25,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides benefits for losses due to covered medical and dental emergencies that occur during your trip. Depending on your plan, there is a $500 or $750 maximum for all covered dental expenses."
-          },
-          {
-            "name": "Baggage Delay",
-            "insuranceSum": "$300.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses the reasonable additional purchase of essential items during your trip if your baggage is delayed or misdirected by a common carrier for 24 hours or more. Receipts for emergency purchases are required."
-          },
-          {
-            "name": "Baggage Loss/Damage",
-            "insuranceSum": "$1,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Covers loss, damage or theft of baggage and personal effects."
-          },
-          {
-            "name": "Trip Interruption",
-            "insuranceSum": "$1,500.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses you for the unused, non-refundable portion of your trip and for the increased transportation costs it takes for you to return home due to a covered reason."
-          },
-          {
-            "name": "Travel Delay",
-            "insuranceSum": "$800.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses you for additional expenses due to a covered delay of six hours or more.  Some plans may also cover lost prepaid trip expenses due to covered travel delay, depending on the product and state.  Please see your insuring agreement to verify whether your insurance plan includes this coverage. "
-          },
-          {
-            "name": "Frequent Traveler Loyalty Plan",
-            "insuranceSum": "$250.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Coverage for frequent flyer mile redeposit fees in the event of a covered trip cancellation."
-          },
-          {
-            "name": "Missed Connection",
-            "insuranceSum": "$800.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses expenses resulting from a covered delay that causes you to miss your scheduled flight or cruise."
-          },
-          {
-            "name": "Change Fee Coverage",
-            "insuranceSum": "$250.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides reimbursement for fees to change the dates on your airline ticket."
-          },
-          {
-            "name": "Emergency Medical Transportation",
-            "insuranceSum": "$500,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides medically necessary transportation to the nearest hospital or appropriate facility following a covered illness or injury."
-          },
-          {
-            "name": "Trip Cancellation",
-            "insuranceSum": "$1,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses your prepaid, non-refundable expenses if you must cancel your trip due to a covered reason.  "
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
           }
-        ],
-        "status": "1",
-        "productOfferingName": "OneTrip Rental Car Protector",
-        "productOfferingDescription": "modificationsAllowed\": false; claimsAllowed\": true, \"cancellationAllowed\": false",
-        "purchaseDate": "2018-05-23",
-        "modificationsAllowed": false,
-        "claimsAllowed": true,
-        "cancellationAllowed": false
+        ]
+      },
+      {
+        "facilityName": "SA CLINIQUE MUETTE CPTE MEDECINS",
+        "facilityType": "HOSPITAL",
+        "facilityId": "41462",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Fontenay-aux-Roses",
+          "street": "Rue Nicolo",
+          "doorNumber": "46",
+          "zipCode": "75116",
+          "latitude": 48.860449,
+          "longitude": 2.277819,
+          "distanceToFacility": 1.26,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE CHIRURGICALE VICTOR HUGO",
+        "facilityType": "HOSPITAL",
+        "facilityId": "55673",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Fontenay-aux-Roses",
+          "street": "Rue du Dome",
+          "doorNumber": "5 bis",
+          "zipCode": "75116",
+          "latitude": 48.871315,
+          "longitude": 2.291328,
+          "distanceToFacility": 1.49,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "SENOLOGIA INSTITUT DU SEIN",
+        "facilityType": "HOSPITAL",
+        "facilityId": "41810",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "Avenue Bugeaud",
+          "doorNumber": "7",
+          "zipCode": "75116",
+          "latitude": 48.86989,
+          "longitude": 2.283798,
+          "distanceToFacility": 1.53,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "HOPITAL DU GIER",
+        "facilityType": "HOSPITAL",
+        "facilityId": "44560",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Neuilly-sur-Seine",
+          "street": "Avenue Victor Hugo",
+          "doorNumber": "19",
+          "zipCode": "42400",
+          "latitude": 48.872198,
+          "longitude": 2.291617,
+          "distanceToFacility": 1.58,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE NESCENS PARIS SPONTINI",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "46518",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Clamart",
+          "street": "Rue Spontini",
+          "doorNumber": "68B",
+          "zipCode": "75116",
+          "latitude": 48.8666,
+          "longitude": 2.2761,
+          "distanceToFacility": 1.66,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE CORNETTE DE ST CYR",
+        "facilityLocalName": "CLINIQUE CORNETTE DE ST CYR",
+        "facilityType": "HOSPITAL",
+        "facilityId": "28015",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "15 RUE SPONTINI",
+          "zipCode": "75016",
+          "latitude": 48.8697157,
+          "longitude": 2.2782866,
+          "distanceToFacility": 1.76,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE SAINT JEAN DE DIEU",
+        "facilityType": "HOSPITAL",
+        "facilityId": "54385",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Neuilly-sur-Seine",
+          "street": "Rue Oudinot",
+          "doorNumber": "19",
+          "zipCode": "75007",
+          "latitude": 48.850036,
+          "longitude": 2.31738,
+          "distanceToFacility": 1.89,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "ASSISTANCE PUBLIQUE - HOPITAUX DE PARIS",
+        "facilityType": "HOSPITAL",
+        "facilityId": "43081",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Neuilly-sur-Seine",
+          "street": "Rue de Sevres",
+          "doorNumber": "149",
+          "zipCode": "75743",
+          "latitude": 48.84648,
+          "longitude": 2.315621,
+          "distanceToFacility": 2.00,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "SA IRM PARIS HOCHE",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "37979",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Fontenay-aux-Roses",
+          "street": "Boulevard Haussmann",
+          "doorNumber": "192",
+          "zipCode": "75008",
+          "latitude": 48.875114,
+          "longitude": 2.305421,
+          "distanceToFacility": 2.05,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE BLOMET",
+        "facilityType": "HOSPITAL",
+        "facilityId": "55582",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Fontenay-aux-Roses",
+          "street": "Rue Blomet",
+          "doorNumber": "136b",
+          "zipCode": "75015",
+          "latitude": 48.839646,
+          "longitude": 2.296057,
+          "distanceToFacility": 2.05,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "MAISON DE SANTE REMUSAT",
+        "facilityType": "HOSPITAL",
+        "facilityId": "55857",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Boulogne-Billancourt",
+          "street": "Rue de Remusat",
+          "doorNumber": "21",
+          "zipCode": "75016",
+          "latitude": 48.847876,
+          "longitude": 2.271187,
+          "distanceToFacility": 2.06,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE APHP HOPITAL NECKER ENFANTS MALADES",
+        "facilityLocalName": "GROUPE APHP HOPITAL NECKER ENFANTS MALADES",
+        "facilityType": "HOSPITAL",
+        "facilityId": "31096",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "RUE DE SEVRES",
+          "doorNumber": "149",
+          "zipCode": "75015",
+          "latitude": 48.844921,
+          "longitude": 2.314738,
+          "distanceToFacility": 2.07,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S4",
+            "specialtyName": "Cardiology"
+          }
+        ]
+      },
+      {
+        "facilityName": "HOPITAL COGNACQ-JAY",
+        "facilityType": "HOSPITAL",
+        "facilityId": "38035",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Fontenay-aux-Roses",
+          "street": "Rue Eugene Millon",
+          "doorNumber": "15",
+          "zipCode": "75015",
+          "latitude": 48.837951,
+          "longitude": 2.292793,
+          "distanceToFacility": 2.24,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE ABCOS SANTE",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "55923",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Neuilly-sur-Seine",
+          "street": "Rue Daru",
+          "doorNumber": "14b",
+          "zipCode": "75008",
+          "latitude": 48.878058,
+          "longitude": 2.302372,
+          "distanceToFacility": 2.29,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "MATERNITE SAINTE FELICITE",
+        "facilityType": "HOSPITAL",
+        "facilityId": "47071",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Neuilly-sur-Seine",
+          "street": "Rue de Casablanca",
+          "doorNumber": "7",
+          "zipCode": "75015",
+          "latitude": 48.836735,
+          "longitude": 2.293018,
+          "distanceToFacility": 2.38,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CMP EDOUARD RIST",
+        "facilityType": "HOSPITAL",
+        "facilityId": "45944",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Boulogne-Billancourt",
+          "street": "Rue Boileau",
+          "doorNumber": "14",
+          "zipCode": "75016",
+          "latitude": 48.846683,
+          "longitude": 2.265379,
+          "distanceToFacility": 2.49,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE APHP HOPITAL SAINTE PERINE ROSSINI CHARDON LAGACHE",
+        "facilityLocalName": "GROUPE APHP HOPITAL SAINTE PERINE ROSSINI CHARDON LAGACHE",
+        "facilityType": "HOSPITAL",
+        "facilityId": "31094",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "area": "CEDEX 16",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "RUE CHARDON LAGACHE",
+          "doorNumber": "11",
+          "zipCode": "75781",
+          "latitude": 48.845168,
+          "longitude": 2.266831,
+          "distanceToFacility": 2.49,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE APHP HOPITAL EUROPEEN GEORGES POMPIDOU",
+        "facilityLocalName": "GROUPE APHP HOPITAL HEGP",
+        "facilityType": "HOSPITAL",
+        "facilityId": "31134",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "RUE LEBLANC",
+          "doorNumber": "20-40",
+          "zipCode": "75908",
+          "latitude": 48.839134,
+          "longitude": 2.276031,
+          "distanceToFacility": 2.51,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S2",
+            "specialtyName": "Anaesthesiology"
+          }
+        ]
+      },
+      {
+        "facilityName": "GH BROUSSAIS - HEGP",
+        "facilityType": "HOSPITAL",
+        "facilityId": "37534",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "Rue Leblanc",
+          "doorNumber": "20",
+          "zipCode": "75908",
+          "latitude": 48.839109,
+          "longitude": 2.276026,
+          "distanceToFacility": 2.51,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE INTERNATIONALE DU PARC MONCEAU",
+        "facilityType": "HOSPITAL",
+        "facilityId": "35271",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Clamart",
+          "street": "Rue de Chazelles",
+          "doorNumber": "21",
+          "zipCode": "75017",
+          "latitude": 48.879918,
+          "longitude": 2.30401,
+          "distanceToFacility": 2.52,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE APHP HOPITAL VAUGIRARD GABRIEL PALLEZ",
+        "facilityLocalName": "GROUPE APHP HOPITAL VAUGIRARD GABRIEL PALLEZ",
+        "facilityType": "HOSPITAL",
+        "facilityId": "31095",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "RUE VAUGELAS",
+          "doorNumber": "10",
+          "zipCode": "75015",
+          "latitude": 48.834355,
+          "longitude": 2.294332,
+          "distanceToFacility": 2.64,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE JOUVENET - PARIS",
+        "facilityType": "HOSPITAL",
+        "facilityId": "47130",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Neuilly-sur-Seine",
+          "street": "Square Jouvenet",
+          "doorNumber": "6",
+          "zipCode": "75016",
+          "latitude": 48.842578,
+          "longitude": 2.266025,
+          "distanceToFacility": 2.72,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "SARAH SANTE-AUTEUIL",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "71322",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Neuilly-sur-Seine",
+          "street": "Rue Chanez",
+          "doorNumber": "21",
+          "zipCode": "75016",
+          "latitude": 48.8463517,
+          "longitude": 2.2597064,
+          "distanceToFacility": 2.87,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "HOPITAL DE JOUR LEOPOLD BELLAN",
+        "facilityType": "HOSPITAL",
+        "facilityId": "39891",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Neuilly-sur-Seine",
+          "street": "Rue Vercingetorix",
+          "doorNumber": "19",
+          "zipCode": "75010",
+          "latitude": 48.837337,
+          "longitude": 2.319864,
+          "distanceToFacility": 2.95,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE PIERRE CHEREST",
+        "facilityType": "HOSPITAL",
+        "facilityId": "47070",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Neuilly-sur-Seine",
+          "street": "Rue Pierre Cherest",
+          "doorNumber": "5",
+          "zipCode": "92200",
+          "latitude": 48.883362,
+          "longitude": 2.280006,
+          "distanceToFacility": 3.01,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE HARTMANN",
+        "facilityType": "HOSPITAL",
+        "facilityId": "47129",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Neuilly-sur-Seine",
+          "street": "Boulevard Victor Hugo",
+          "doorNumber": "26",
+          "zipCode": "92200",
+          "latitude": 48.885949,
+          "longitude": 2.280638,
+          "distanceToFacility": 3.26,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CENTRE MEDICAL EUROPE",
+        "facilityLocalName": "CENTRE MEDICAL EUROPE",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "23049",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "44 RUE AMSTERDAM",
+          "zipCode": "75009",
+          "latitude": 48.8784084,
+          "longitude": 2.3270544,
+          "distanceToFacility": 3.27,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S3",
+            "specialtyName": "Angiology & Vascular surgery"
+          }
+        ]
+      },
+      {
+        "facilityName": "INSTITUT CS UR PARIS CENTRE",
+        "facilityLocalName": "INSTITUT CS UR PARIS CENTRE",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "28007",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "RUE DE TURIN",
+          "doorNumber": "9",
+          "zipCode": "75008",
+          "latitude": 48.8800523,
+          "longitude": 2.3247808,
+          "distanceToFacility": 3.29,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S3",
+            "specialtyName": "Angiology & Vascular surgery"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE TURIN",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "35692",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Boulogne-Billancourt",
+          "street": "Rue de Turin",
+          "doorNumber": "9",
+          "zipCode": "75008",
+          "latitude": 48.880071,
+          "longitude": 2.325042,
+          "distanceToFacility": 3.30,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE HOSPITALIER PARIS SAINT-JOSEPH",
+        "facilityType": "HOSPITAL",
+        "facilityId": "55406",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Fontenay-aux-Roses",
+          "street": "Rue Raymond Losserand",
+          "doorNumber": "185",
+          "zipCode": "75674",
+          "latitude": 48.830458,
+          "longitude": 2.311206,
+          "distanceToFacility": 3.30,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "HOPITAL SAINTE-MARIE PARIS",
+        "facilityType": "HOSPITAL",
+        "facilityId": "48183",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Boulogne-Billancourt",
+          "street": "Rue Raymond Losserand",
+          "doorNumber": "167",
+          "zipCode": "75014",
+          "latitude": 48.830444,
+          "longitude": 2.311329,
+          "distanceToFacility": 3.31,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CENTRE CHIRUGICAL AMBROISE PARE",
+        "facilityType": "HOSPITAL",
+        "facilityId": "46691",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Neuilly-sur-Seine",
+          "street": "Boulevard Victor Hugo",
+          "doorNumber": "27",
+          "zipCode": "92200",
+          "latitude": 48.886485,
+          "longitude": 2.278549,
+          "distanceToFacility": 3.37,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE AMBROISE PARE - NEUILLY SUR SEINE",
+        "facilityType": "HOSPITAL",
+        "facilityId": "47335",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Neuilly-sur-Seine",
+          "street": "Boulevard Victor Hugo",
+          "doorNumber": "27",
+          "zipCode": "92200",
+          "latitude": 48.886485,
+          "longitude": 2.278549,
+          "distanceToFacility": 3.37,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE ARAGO",
+        "facilityType": "HOSPITAL",
+        "facilityId": "72940",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Fontenay-aux-Roses",
+          "street": "Rue Raymond Losserand",
+          "doorNumber": "187a",
+          "zipCode": "75014",
+          "latitude": 48.8289316,
+          "longitude": 2.3101477,
+          "distanceToFacility": 3.43,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE APHP HOPITAL CORENTIN CELTON",
+        "facilityLocalName": "GROUPE APHP HOPITAL CORENTIN CELTON",
+        "facilityType": "HOSPITAL",
+        "facilityId": "31107",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Issy-les-Moulineaux",
+          "street": "PARVIS CORENTIN CELTON",
+          "doorNumber": "4",
+          "zipCode": "92130",
+          "latitude": 48.827863,
+          "longitude": 2.278864,
+          "distanceToFacility": 3.56,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GHU PARIS - SITE STE ANNE",
+        "facilityType": "HOSPITAL",
+        "facilityId": "72963",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Fontenay-aux-Roses",
+          "street": "Rue Benard",
+          "doorNumber": "26",
+          "zipCode": "75014",
+          "latitude": 48.8317799,
+          "longitude": 2.3223949,
+          "distanceToFacility": 3.56,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CH SAINTE ANNE",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "39898",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Fontenay-aux-Roses",
+          "street": "Rue Benard",
+          "doorNumber": "26",
+          "zipCode": "75014",
+          "latitude": 48.83178,
+          "longitude": 2.322395,
+          "distanceToFacility": 3.56,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE INTERNATIONALE",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "69175",
+        "address": {
+          "countryName": "Chad",
+          "countryCode": "TD",
+          "state": "Chari-Baguirmi",
+          "city": "N'Djamena",
+          "street": "Croisement Avenue du 10 October Chari-Birmil",
+          "zipCode": "BP 2448",
+          "latitude": 48.89015,
+          "longitude": 2.2817,
+          "distanceToFacility": 3.69,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "HOPITAL FRANCO BRITANNIQUE",
+        "facilityLocalName": "HOPITAL FRANCO BRITANNIQUE",
+        "facilityType": "HOSPITAL",
+        "facilityId": "28023",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Levallois-Perret",
+          "street": "RUE BARBES AND 4 RUE KLEBER",
+          "doorNumber": "3",
+          "zipCode": "92300",
+          "latitude": 48.8901686,
+          "longitude": 2.2810918,
+          "distanceToFacility": 3.70,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "INSITUT HOSPITALIER FRANCO-BRITANNIQUE",
+        "facilityType": "HOSPITAL",
+        "facilityId": "55640",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Levallois-Perret",
+          "street": "Rue Kleber",
+          "doorNumber": "4",
+          "zipCode": "92300",
+          "latitude": 48.890214,
+          "longitude": 2.281093,
+          "distanceToFacility": 3.71,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "INSTITUT HOSPITALIER FRANCO-BRITANNIQUE SITE BARBES",
+        "facilityType": "HOSPITAL",
+        "facilityId": "47226",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Levallois-Perret",
+          "street": "Rue Barbes",
+          "doorNumber": "3",
+          "zipCode": "92300",
+          "latitude": 48.890314,
+          "longitude": 2.281026,
+          "distanceToFacility": 3.72,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE APHP HOPITAL SAINT VINCENT DE PAUL",
+        "facilityLocalName": "GROUPE APHP HOPITAL SAINT VINCENT DE PAUL",
+        "facilityType": "HOSPITAL",
+        "facilityId": "31098",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "area": "HOPITAUX UNIVERSITAIRES PARIS CENTRE",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "AVENUE DENFERT ROCHEREAU",
+          "doorNumber": "82",
+          "zipCode": "75014",
+          "latitude": 48.83757,
+          "longitude": 2.335485,
+          "distanceToFacility": 3.76,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE APHP HOPITAL LA ROCHEFOUCAULD",
+        "facilityLocalName": "GROUPE APHP HOPITAL LA ROCHEFOUCAULD",
+        "facilityType": "HOSPITAL",
+        "facilityId": "31105",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "AVENUE DU GENERAL LECLERC",
+          "doorNumber": "15",
+          "zipCode": "75014",
+          "latitude": 48.832263,
+          "longitude": 2.330716,
+          "distanceToFacility": 3.90,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE ARAGO",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "47299",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Boulogne-Billancourt",
+          "street": "Boulevard Arago",
+          "doorNumber": "95",
+          "zipCode": "75014",
+          "latitude": 48.834724,
+          "longitude": 2.334605,
+          "distanceToFacility": 3.91,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "HOPITAL SUISSE DE PARIS",
+        "facilityType": "HOSPITAL",
+        "facilityId": "40324",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Issy-les-Moulineaux",
+          "street": "Rue Minard",
+          "doorNumber": "10",
+          "zipCode": "92130",
+          "latitude": 48.824556,
+          "longitude": 2.277403,
+          "distanceToFacility": 3.94,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CENTRE DE RADIOTHERAPIE HARTMANN - DR ALAIN TOLEDANO",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "39199",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Levallois-Perret",
+          "street": "Rue Kleber",
+          "doorNumber": "4",
+          "zipCode": "92309",
+          "latitude": 48.892123,
+          "longitude": 2.278938,
+          "distanceToFacility": 3.96,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S32",
+            "specialtyName": "Radiology"
+          }
+        ]
+      },
+      {
+        "facilityName": "INSTITUT ONCOLOGIE HARTMANN",
+        "facilityType": "HOSPITAL",
+        "facilityId": "44104",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Levallois-Perret",
+          "street": "Rue Kleber",
+          "doorNumber": "4",
+          "zipCode": "92309",
+          "latitude": 48.892123,
+          "longitude": 2.278938,
+          "distanceToFacility": 3.96,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE APHP HOTEL DIEU",
+        "facilityLocalName": "GROUPE APHP HOTEL DIEU",
+        "facilityType": "HOSPITAL",
+        "facilityId": "31135",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "PLACE DU PARVIS NOTRE DAME, PLACE JEAN PAUL II",
+          "doorNumber": "1",
+          "zipCode": "75004",
+          "latitude": 48.854374,
+          "longitude": 2.348478,
+          "distanceToFacility": 3.96,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE APHP HOPITAL COCHIN",
+        "facilityLocalName": "GROUPE APHP HOPITAL COCHIN",
+        "facilityType": "HOSPITAL",
+        "facilityId": "31130",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "RUE DU FAUBOURG SAINT JACQUES",
+          "doorNumber": "27",
+          "zipCode": "75014",
+          "latitude": 48.837446,
+          "longitude": 2.338835,
+          "distanceToFacility": 3.96,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CENTRE CHIRURGICAL DES PRINCES",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "37637",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Boulogne-Billancourt",
+          "street": "Rond-Point Andre Malraux",
+          "doorNumber": "13",
+          "zipCode": "92100",
+          "latitude": 48.840074,
+          "longitude": 2.247928,
+          "distanceToFacility": 3.97,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "HOPITAL COCHIN",
+        "facilityType": "HOSPITAL",
+        "facilityId": "65795",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "Rue du Faubourg Saint-Jacques",
+          "doorNumber": "27",
+          "zipCode": "75014",
+          "latitude": 48.8373986,
+          "longitude": 2.3388689,
+          "distanceToFacility": 3.97,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CENTRE CLINIQUE DE LA PORTE DE SAINT-CLOUD",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "35546",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Boulogne-Billancourt",
+          "street": "Rue de Paris",
+          "doorNumber": "30",
+          "zipCode": "92100",
+          "latitude": 48.839664,
+          "longitude": 2.248099,
+          "distanceToFacility": 3.98,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "SCM CLINIQUE PORTE DE ST CLOUD",
+        "facilityType": "HOSPITAL",
+        "facilityId": "48461",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Clamart",
+          "street": "Rue de Paris",
+          "doorNumber": "30",
+          "zipCode": "92100",
+          "latitude": 48.839719,
+          "longitude": 2.247988,
+          "distanceToFacility": 3.98,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "INSTITUT CURIE",
+        "facilityLocalName": "INSTITUT CURIE",
+        "facilityType": "HOSPITAL",
+        "facilityId": "46811",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Fontenay-aux-Roses",
+          "street": "Rue d'Ulm",
+          "doorNumber": "26",
+          "zipCode": "75248",
+          "latitude": 48.843302,
+          "longitude": 2.344511,
+          "distanceToFacility": 4.00,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CENTRE D'ACCUEIL ET DE SOINS HOSPITALIERS NANTERRE",
+        "facilityType": "HOSPITAL",
+        "facilityId": "42020",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "Rue Reaumur",
+          "doorNumber": "94",
+          "zipCode": "75104",
+          "latitude": 48.867173,
+          "longitude": 2.349364,
+          "distanceToFacility": 4.12,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "196 - CRF PORT ROYAL SSR",
+        "facilityType": "HOSPITAL",
+        "facilityId": "44954",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Neuilly-sur-Seine",
+          "street": "Rue Mechain",
+          "doorNumber": "9",
+          "zipCode": "75041",
+          "latitude": 48.835517,
+          "longitude": 2.340092,
+          "distanceToFacility": 4.16,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "SCM DES MEDECINS DE L'AHP",
+        "facilityType": "HOSPITAL",
+        "facilityId": "37143",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Neuilly-sur-Seine",
+          "street": "Boulevard Victor Hugo",
+          "doorNumber": "63",
+          "zipCode": "92202",
+          "latitude": 48.893056,
+          "longitude": 2.273092,
+          "distanceToFacility": 4.20,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "NUCLEAR MEDICINE DEPARTMENT - AMERICAN HOSPITAL OF PARIS",
+        "facilityType": "HOSPITAL",
+        "facilityId": "46905",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "area": "American Hospital Of Paris",
+          "state": "Ile-de-France",
+          "city": "Neuilly-sur-Seine",
+          "street": "Boulevard Victor Hugo",
+          "doorNumber": "63",
+          "zipCode": "92200",
+          "latitude": 48.893056,
+          "longitude": 2.273092,
+          "distanceToFacility": 4.20,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "APHP",
+        "facilityType": "HOSPITAL",
+        "facilityId": "53581",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Neuilly-sur-Seine",
+          "latitude": 48.856614,
+          "longitude": 2.352222,
+          "distanceToFacility": 4.21,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "INTERNATIONAL SOS",
+        "facilityType": "HOSPITAL",
+        "facilityId": "36603",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Levallois-Perret",
+          "street": "Rue du Parc",
+          "doorNumber": "1",
+          "zipCode": "92300",
+          "latitude": 48.896155,
+          "longitude": 2.285028,
+          "distanceToFacility": 4.29,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE APHP HOPITAL AMBROISE PARE",
+        "facilityLocalName": "GROUPE APHP HOPITAL AMBROISE PARE",
+        "facilityType": "HOSPITAL",
+        "facilityId": "31109",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Boulogne-Billancourt",
+          "street": "AVENUE CHARLES DE GAULLE",
+          "doorNumber": "9",
+          "zipCode": "92104",
+          "latitude": 48.849296,
+          "longitude": 2.237185,
+          "distanceToFacility": 4.32,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S26",
+            "specialtyName": "Paediatrics"
+          },
+          {
+            "specialtyCode": "S30",
+            "specialtyName": "Psychology & Psychotherapy"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE MARCEL SEMBAT (CCBB)",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "55304",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Boulogne-Billancourt",
+          "street": "Avenue Victor Hugo",
+          "doorNumber": "105",
+          "zipCode": "92100",
+          "latitude": 48.835321,
+          "longitude": 2.244682,
+          "distanceToFacility": 4.45,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "HOSPITAL CENTER DE COURBEVOIE - NEUILLY - PUTEAUX",
+        "facilityType": "HOSPITAL",
+        "facilityId": "54470",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Neuilly-sur-Seine",
+          "street": "Boulevard Richard Wallace",
+          "doorNumber": "1",
+          "zipCode": "92200",
+          "latitude": 48.878638,
+          "longitude": 2.241865,
+          "distanceToFacility": 4.49,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE APHP HOPITAL BRETONNEAU",
+        "facilityLocalName": "GROUPE APHP HOPITAL BRETONNEAU",
+        "facilityType": "HOSPITAL",
+        "facilityId": "31125",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "RUE JOSEPH-DE MAISTRE",
+          "doorNumber": "23",
+          "zipCode": "75018",
+          "latitude": 48.890748,
+          "longitude": 2.331049,
+          "distanceToFacility": 4.50,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE ORPEA CLINEA",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "55549",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Puteaux",
+          "street": "Rue Bellini",
+          "doorNumber": "1",
+          "zipCode": "92800",
+          "latitude": 48.885998,
+          "longitude": 2.249925,
+          "distanceToFacility": 4.51,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CENTRE HOSPITALIER SAINTE ANNE PARIS",
+        "facilityType": "HOSPITAL",
+        "facilityId": "36701",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Clamart",
+          "street": "Rue Maryse Hilsz",
+          "doorNumber": "15",
+          "zipCode": "75979",
+          "latitude": 48.830229,
+          "longitude": 2.340407,
+          "distanceToFacility": 4.56,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE APHP HOPITAL BROCA",
+        "facilityLocalName": "GROUPE APHP HOPITAL BROCA",
+        "facilityType": "HOSPITAL",
+        "facilityId": "31132",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "RUE PASCAL",
+          "doorNumber": "54-56",
+          "zipCode": "75013",
+          "latitude": 48.834253,
+          "longitude": 2.347426,
+          "distanceToFacility": 4.68,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE GEOFFROY SAINT-HILAIRE",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "47244",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Neuilly-sur-Seine",
+          "street": "Rue Geoffroy-Saint-Hilaire",
+          "doorNumber": "59",
+          "zipCode": "75005",
+          "latitude": 48.843547,
+          "longitude": 2.354868,
+          "distanceToFacility": 4.69,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE APHP HOPITAL LA COLLEGIALE",
+        "facilityLocalName": "GROUPE APHP HOPITAL LA COLLEGIALE",
+        "facilityType": "HOSPITAL",
+        "facilityId": "31113",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "RUE DU FER A MOULIN",
+          "doorNumber": "33",
+          "zipCode": "75005",
+          "latitude": 48.83871,
+          "longitude": 2.352287,
+          "distanceToFacility": 4.73,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CENTRE DE GERONTOLOGIE LES ABONDANCES",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "35101",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Boulogne-Billancourt",
+          "street": "Rue des Abondances",
+          "doorNumber": "56",
+          "zipCode": "92100",
+          "latitude": 48.846983,
+          "longitude": 2.230453,
+          "distanceToFacility": 4.86,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "INSTITUT MUTUALISTE MONTSOURIS",
+        "facilityType": "HOSPITAL",
+        "facilityId": "36318",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Neuilly-sur-Seine",
+          "street": "Boulevard Jourdan",
+          "doorNumber": "42",
+          "zipCode": "75014",
+          "latitude": 48.821884,
+          "longitude": 2.332529,
+          "distanceToFacility": 4.89,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE DE LA MONTAGNE",
+        "facilityType": "HOSPITAL",
+        "facilityId": "47266",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Courbevoie",
+          "street": "Rue Victor Hugo",
+          "doorNumber": "53",
+          "zipCode": "92400",
+          "latitude": 48.895755,
+          "longitude": 2.259953,
+          "distanceToFacility": 4.90,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE APHP HOPITAL LARIBOISIERE",
+        "facilityLocalName": "GROUPE APHP HOPITAL LARIBOISIERE",
+        "facilityType": "HOSPITAL",
+        "facilityId": "31118",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "RUE AMBROISE PARE",
+          "doorNumber": "2",
+          "zipCode": "75010",
+          "latitude": 48.882208,
+          "longitude": 2.352541,
+          "distanceToFacility": 5.01,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE PARIS V",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "35857",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "Boulevard Saint-Marcel",
+          "doorNumber": "36",
+          "zipCode": "75005",
+          "latitude": 48.839095,
+          "longitude": 2.357662,
+          "distanceToFacility": 5.07,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE DU SPORT",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "43279",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Fontenay-aux-Roses",
+          "street": "Boulevard Saint-Marcel",
+          "doorNumber": "36",
+          "zipCode": "75005",
+          "latitude": 48.839095,
+          "longitude": 2.357662,
+          "distanceToFacility": 5.07,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CENTRE MEDICO CHIRURGICAL PARIS V",
+        "facilityType": "HOSPITAL",
+        "facilityId": "47803",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Fontenay-aux-Roses",
+          "street": "Boulevard Saint-Marcel",
+          "doorNumber": "36",
+          "zipCode": "75005",
+          "latitude": 48.839095,
+          "longitude": 2.357662,
+          "distanceToFacility": 5.07,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE PONT DE SEVRES",
+        "facilityType": "HOSPITAL",
+        "facilityId": "37526",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Boulogne-Billancourt",
+          "street": "Rue de Silly",
+          "doorNumber": "76",
+          "zipCode": "92513",
+          "latitude": 48.836433,
+          "longitude": 2.232145,
+          "distanceToFacility": 5.17,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE APHP HOPITAL BICHAT CLAUDE BERNARD",
+        "facilityLocalName": "GROUPE APHP HOPITAL BICHAT CLAUDE BERNARD",
+        "facilityType": "HOSPITAL",
+        "facilityId": "31097",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "RUE HENRI HUCHARD",
+          "doorNumber": "46",
+          "zipCode": "75018",
+          "latitude": 48.899101,
+          "longitude": 2.331033,
+          "distanceToFacility": 5.28,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S4",
+            "specialtyName": "Cardiology"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE APHP HOPITAL PITIE SALPETRIERE",
+        "facilityLocalName": "GROUPE APHP HOPITAL PITIE SALPETRIERE",
+        "facilityType": "HOSPITAL",
+        "facilityId": "31101",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "BOULEVARD DE L'HOPITAL",
+          "doorNumber": "47-83",
+          "zipCode": "75013",
+          "latitude": 48.838043,
+          "longitude": 2.361068,
+          "distanceToFacility": 5.34,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S4",
+            "specialtyName": "Cardiology"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE APHP HOPITAL FERNAND WIDAL",
+        "facilityLocalName": "GROUPE APHP HOPITAL FERNAND WIDAL",
+        "facilityType": "HOSPITAL",
+        "facilityId": "31112",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "RUE DU FAUBOURG SAINT DENIS",
+          "doorNumber": "200",
+          "zipCode": "75010",
+          "latitude": 48.88169,
+          "longitude": 2.35859,
+          "distanceToFacility": 5.36,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S32",
+            "specialtyName": "Radiology"
+          }
+        ]
+      },
+      {
+        "facilityName": "CENTRE DE VACCINATION AIR FRANCE",
+        "facilityLocalName": "CENTRE DE VACCINATION AIR FRANCE",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "31258",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "QUAI DE JEMMAPES",
+          "doorNumber": "38",
+          "zipCode": "75010",
+          "latitude": 48.869396,
+          "longitude": 2.367506,
+          "distanceToFacility": 5.47,
+          "distanceUnit": "km"
+        }
+      },
+      {
+        "facilityName": "HOPITAL FOCH",
+        "facilityLocalName": "HOPITAL FOCH",
+        "facilityType": "HOSPITAL",
+        "facilityId": "54974",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Suresnes",
+          "street": "Rue Worth",
+          "doorNumber": "40",
+          "zipCode": "92151",
+          "latitude": 48.870911,
+          "longitude": 2.221765,
+          "distanceToFacility": 5.52,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "SERVICE DE SANTE DES ARMEES",
+        "facilityType": "HOSPITAL",
+        "facilityId": "73365",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Clamart",
+          "street": "Avenue Henri Barbusse",
+          "doorNumber": "101",
+          "zipCode": "92140",
+          "latitude": 48.8152530,
+          "longitude": 2.2558682,
+          "distanceToFacility": 5.55,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "HIA - HOPITAL D'INSTRUCTION DES ARMEES PERCY",
+        "facilityType": "HOSPITAL",
+        "facilityId": "40579",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Clamart",
+          "street": "Avenue Henri Barbusse",
+          "doorNumber": "101",
+          "zipCode": "92140",
+          "latitude": 48.815253,
+          "longitude": 2.255868,
+          "distanceToFacility": 5.55,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE CRF PARIS NORD",
+        "facilityType": "HOSPITAL",
+        "facilityId": "35365",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Asnieres-sur-Seine",
+          "street": "Quai du Docteur Dervaux",
+          "zipCode": "92600",
+          "latitude": 48.908229,
+          "longitude": 2.292731,
+          "distanceToFacility": 5.58,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CENTRE HOSPITALIER COURBEVOIE-NEUILLY-PUTEAUX",
+        "facilityType": "HOSPITAL",
+        "facilityId": "36989",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Courbevoie",
+          "street": "Rue Kilford",
+          "doorNumber": "30",
+          "zipCode": "92400",
+          "latitude": 48.901053,
+          "longitude": 2.253557,
+          "distanceToFacility": 5.65,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE APHP HOPITAL BEAUJON",
+        "facilityLocalName": "GROUPE APHP HOPITAL BEAUJON",
+        "facilityType": "HOSPITAL",
+        "facilityId": "31127",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Clichy",
+          "street": "BOULEVARD DU GENERAL LECLERC",
+          "doorNumber": "100",
+          "zipCode": "92110",
+          "latitude": 48.908407,
+          "longitude": 2.307858,
+          "distanceToFacility": 5.68,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S4",
+            "specialtyName": "Cardiology"
+          },
+          {
+            "specialtyCode": "S21",
+            "specialtyName": "Neurology"
+          }
+        ]
+      },
+      {
+        "facilityName": "CIVEM PLUS",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "55659",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Fontenay-aux-Roses",
+          "street": "Rue de Bercy",
+          "doorNumber": "223",
+          "zipCode": "75012",
+          "latitude": 48.846131,
+          "longitude": 2.370227,
+          "distanceToFacility": 5.68,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CENTRE HOSPITALIER NATIONAL D'OPHTALMOLOGIE DES QUINZE-VINGTS (PARIS)",
+        "facilityType": "HOSPITAL",
+        "facilityId": "37198",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "Rue de Charenton",
+          "doorNumber": "28",
+          "zipCode": "75571",
+          "latitude": 48.850631,
+          "longitude": 2.371676,
+          "distanceToFacility": 5.69,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "HOPITAL DES PEUPLIERS",
+        "facilityType": "HOSPITAL",
+        "facilityId": "47462",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "Place de l'Abbe Georges Henocque",
+          "doorNumber": "8",
+          "zipCode": "75113",
+          "latitude": 48.823876,
+          "longitude": 2.352987,
+          "distanceToFacility": 5.72,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "QUINZE VINGTS",
+        "facilityLocalName": "QUINZE VINGTS",
+        "facilityType": "HOSPITAL",
+        "facilityId": "23052",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "RUE DE CHARENTON",
+          "doorNumber": "28",
+          "zipCode": "75012",
+          "latitude": 48.8512676,
+          "longitude": 2.372193,
+          "distanceToFacility": 5.72,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "GROUPE APHP HOPITAL SAINT LOUIS",
+        "facilityLocalName": "GROUPE APHP HOPITAL SAINT LOUIS",
+        "facilityType": "HOSPITAL",
+        "facilityId": "31122",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Paris",
+          "street": "AVENUE CLAUDE VELLEFAUX",
+          "doorNumber": "1",
+          "zipCode": "75475",
+          "latitude": 48.872781,
+          "longitude": 2.369683,
+          "distanceToFacility": 5.72,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE DE CHATILLON",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "38548",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Chatillon",
+          "street": "Rue des Fauvettes",
+          "doorNumber": "17",
+          "zipCode": "92320",
+          "latitude": 48.807173,
+          "longitude": 2.282069,
+          "distanceToFacility": 5.74,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
+      },
+      {
+        "facilityName": "CLINIQUE SAINT LOUIS",
+        "facilityType": "OUTPATIENT_CLINIC",
+        "facilityId": "47072",
+        "address": {
+          "countryName": "France",
+          "countryCode": "FR",
+          "state": "Ile-de-France",
+          "city": "Clamart",
+          "street": "Avenue Claude Vellefaux",
+          "doorNumber": "1",
+          "zipCode": "69338",
+          "latitude": 48.873568,
+          "longitude": 2.369891,
+          "distanceToFacility": 5.76,
+          "distanceUnit": "km"
+        },
+        "specialties": [
+          {
+            "specialtyCode": "S13",
+            "specialtyName": "General Practice"
+          }
+        ]
       }
     ],
-    "validationResult": {
-      "code": "000",
-      "message": "No error",
-      "timeStamp": "2019-04-24T10:38:21.634Z"
+    "paging": {
+      "firstPageNumber": 0,
+      "lastPageNumber": 2,
+      "pageNumber": 0,
+      "pageSize": 100,
+      "totalItems": 225
     }
-  },
-  "policy": {
-    "policy": [
-      {
-        "policyNumber": "EUSU111111",
-        "contractInterval": {
-          "start": "2023-11-15",
-          "end": "2024-11-3"
-        },
-        "coverages": [
-          {
-            "name": "24-Hr Hotline Assistance Plus",
-            "insuranceSum": "Included",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "With Allianz Global Assistance, you'll never travel alone. Our multilingual assistance team is available 24 hours a day to help you handle covered travel emergencies. We can help you find local medical and legal professionals, arrange to send a message home, help re-book your flight and/or hotel arrangements, help with missed connections, lost/stolen travel documents, and much more."
-          },
-          {
-            "name": "Emergency Medical Coverage",
-            "insuranceSum": "$25,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides benefits for losses due to covered medical and dental emergencies that occur during your trip. Depending on your plan, there is a $500 or $750 maximum for all covered dental expenses."
-          },
-          {
-            "name": "Baggage Delay",
-            "insuranceSum": "$300.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses the reasonable additional purchase of essential items during your trip if your baggage is delayed or misdirected by a common carrier for 24 hours or more. Receipts for emergency purchases are required."
-          },
-          {
-            "name": "Baggage Loss/Damage",
-            "insuranceSum": "$1,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Covers loss, damage or theft of baggage and personal effects."
-          },
-          {
-            "name": "Trip Interruption",
-            "insuranceSum": "$1,500.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses you for the unused, non-refundable portion of your trip and for the increased transportation costs it takes for you to return home due to a covered reason."
-          },
-          {
-            "name": "Travel Delay",
-            "insuranceSum": "$800.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses you for additional expenses due to a covered delay of six hours or more.  Some plans may also cover lost prepaid trip expenses due to covered travel delay, depending on the product and state.  Please see your insuring agreement to verify whether your insurance plan includes this coverage. "
-          },
-          {
-            "name": "Frequent Traveler Loyalty Plan",
-            "insuranceSum": "$250.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Coverage for frequent flyer mile redeposit fees in the event of a covered trip cancellation."
-          },
-          {
-            "name": "Missed Connection",
-            "insuranceSum": "$800.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses expenses resulting from a covered delay that causes you to miss your scheduled flight or cruise."
-          },
-          {
-            "name": "Change Fee Coverage",
-            "insuranceSum": "$250.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides reimbursement for fees to change the dates on your airline ticket."
-          },
-          {
-            "name": "Emergency Medical Transportation",
-            "insuranceSum": "$500,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Provides medically necessary transportation to the nearest hospital or appropriate facility following a covered illness or injury."
-          },
-          {
-            "name": "Trip Cancellation",
-            "insuranceSum": "$1,000.00",
-            "coverageItems": [
-              {
-                "insuredObjects": [
-                  {
-                    "firstName": "Alex",
-                    "lastName": "Ridey"
-                  }
-                ]
-              }
-            ],
-            "description": "Reimburses your prepaid, non-refundable expenses if you must cancel your trip due to a covered reason.  "
-          }
-        ],
-        "status": "1",
-        "productOfferingName": "OneTrip Prime",
-        "productOfferingDescription": "With Allianz Global Assistance, you'll never travel alone. Our multilingual assistance team is available 24 hours a day to help you handle covered travel emergencies. We can help you find local medical and legal professionals, arrange to send a message home, help re-book your flight and/or hotel arrangements, help with missed connections, lost/stolen travel documents, and much more.",
-        "purchaseDate": "2023-11-15",
-        "modificationsAllowed": true,
-        "claimsAllowed": true,
-        "cancellationAllowed": true
-      }
-    ],
-    "validationResult": {
-      "code": "000",
-      "message": "No error",
-      "timeStamp": "2019-04-24T10:38:21.634Z"
-    }
-  },
-  "users": [
-    {
-      "id": "sample"
-    }
-  ],
-  "login": [
-    {
-      "userId": "sample",
-      "access_token": "eyJhbGciOiJSUzI1NiJ9.eyJhdWQiOlsicmVzdHNlcnZpY2UiXSwidXNlcl9pZCI6IjIxNzk0NiIsInVzZXJfbmFtZSI6IjIxNzk0NiIsInNjb3BlIjpbInJlYWQxxxxxxLCJleHAiOjE1NTYyNjU4ODcsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJqdGkiOiIwYTYwY2U3Yi1kNTVhLTRkMmMtODcyYy05ZDIyOTUwZmRkYmUiLCJjbGllbnRfaWQiOiJjbGllbnRhcHAifQ.jndHrLllWiBme5d6IyUF-3q2de1qsShvh-_4e5lZqdT4enCN1gohHB1ksrCqInSCOOyNsb4cgdaeY2qq9CgSa244vA3oTI97_I28F10GmEewi5lZoMpda5aiVDLlR4QoaRCRK5_K-Fu66FIsoJrB9r1gCdRKoJLaWaWkYhteAVhvDqnmD9ShRPuD2M_zQR6bunvjFWf8n5hvgGIAQ08AXU_AczFZRjOE9bsaQwR2TcGKHuS3DN-b5a5toBqAB8DgIadLoaQ4DqQnxBY2salm63b2IQU4MSIzp5Q3hbLnYu71IN1aHROhYOHl7S3PUGsT5MK4GP9RsTkOrR47UQAA8A",
-      "refresh_token": "eyJhbGciOiJSUzI1NiJ9.eyJhdWQiOlsicmVzdHNlcnZpY2UiXSwidXNlcl9pZCI6IjIxNzk0NiIsInVzZXJfbmFtZSI6IjIxNzk0NiIsInNjb3BlIjpbInJlYWQiLCJ3cml0ZSJdLCJhdGkiOiIwYTYwY2U3Yi1kNTVhLTRkMmMtODcyYy05ZDIyOTUwxxxxiOjE1NTc5OTM4ODcsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJqdGkiOiI1OGU5ZGI3ZS1lYzA1LTRkM2YtOTk0My0zYTI0YjA5OGU2OTkiLCJjbGllbnRfaWQiOiJjbGllbnRhcHAifQ.OuFxby7dKCmoknZ_1RgJrLVULimREnGArSBR3TKf5ExWOBaNVO22S5EFXhW0DnPzT-D1MP9aVEVqzHl1torTa0lPWom2lPLEbdzQW8E4ZquLY-bL32eNIgUSvl9URuwuFKaCG8e1_6GZuUSnmI03kREBxALcxRBpz35cDprBSNWymy6SLiP_SYB8HyMGbfKzZRJOeBi_OOV4Suvwlr72Gmg-mvVQc0Lsh6q_mfI2-oGsn4I4cgUe_M_l_uJ0L5mx9yAWBGGT8O5SgDb_GQz54GtdNcV3PPejo-Dv7IFUJZpFMcwAQthSu7dTbDdRsV21XpmXroab4RJ9S8K1cX82aA",
-      "token_type": "bearer",
-      "expires_in": 86399,
-      "validationResult": {
-        "code": "000",
-        "message": "No error",
-        "timeStamp": "2019-04-25T08:04:47.526Z"
-      }
-    }
-  ],
-  "initialization-data": [
-    {
-      "name": "Trip-planner",
-      "available": true,
-      "visible": true,
-      "subModules": [
-        {
-          "name": "flights",
-          "available": true,
-          "visible": true,
-          "subModules": [
-            {
-              "name": "flight-alerts",
-              "available": true,
-              "visible": true
-            },
-            {
-              "name": "lounge-vouchers",
-              "available": false,
-              "visible": true
-            },
-            {
-              "name": "flight-delay-compensations",
-              "available": false,
-              "visible": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "health",
-      "available": false,
-      "visible": true,
-      "subModules": [
-        {
-          "name": "symptom-checker",
-          "available": false,
-          "visible": true
-        },
-        {
-          "name": "teleconsultation",
-          "available": false,
-          "visible": true
-        },
-        {
-          "name": "hospital-finder",
-          "available": false,
-          "visible": true
-        },
-        {
-          "name": "medical-translation",
-          "available": false,
-          "visible": true
-        },
-        {
-          "name": "doctor-chat",
-          "available": false,
-          "visible": true
-        },
-        {
-          "name": "doctor-visit",
-          "available": false,
-          "visible": false
-        }
-      ]
-    },
-    {
-      "name": "customer-care",
-      "available": true,
-      "visible": true
-    },
-    {
-      "name": "vault",
-      "available": true,
-      "visible": true,
-      "subModules": [
-        {
-          "name": "vault-edit",
-          "available": false,
-          "visible": true
-        },
-        {
-          "name": "vault-read",
-          "available": true,
-          "visible": true
-        },
-        {
-          "name": "vault-download",
-          "available": true,
-          "visible": true
-        },
-        {
-          "name": "vault-upload",
-          "available": false,
-          "visible": true
-        },
-        {
-          "name": "vault-delete",
-          "available": false,
-          "visible": true
-        }
-      ]
-    },
-    {
-      "name": "safety-alerts",
-      "available": false,
-      "visible": false
-    },
-    {
-      "name": "policy",
-      "available": true,
-      "visible": true,
-      "subModules": [
-        {
-          "name": "travel-policy-purchase",
-          "available": true,
-          "visible": true
-        },
-        {
-          "name": "travel-policy-management",
-          "available": true,
-          "visible": true
-        }
-      ]
-    },
-    {
-      "name": "travel-claims",
-      "available": true,
-      "visible": true
-    },
-    {
-      "name": "cyber-care",
-      "available": true,
-      "visible": true
-    },
-    {
-      "name": "ID-Breach-checker",
-      "available": true,
-      "visible": true
-    },
-    {
-      "name": "travel-insurance-medical-assistance-call",
-      "available": false,
-      "visible": false
-    },
-    {
-      "name": "medical dictionary",
-      "available": false,
-      "visible": true
-    },
-    {
-      "name": "emergency numbers",
-      "available": true,
-      "visible": true
-    },
-    {
-      "name": "destination info",
-      "available": false,
-      "visible": true
-    }
-  ],
-  "claim": {
-    "claimDetail": [
-      {
-        "policyNumber": "EUSU2013051030",
-        "claimNumber": "0000123399",
-        "claimClassId": "Trip Cancellation",
-        "claimStatus": "Open",
-        "creationDate": "2018-11-27"
-      }
-    ],
-    "validationResult": {
-      "code": "000",
-      "message": "No error",
-      "timeStamp": "2019-04-26T07:24:31.012Z"
-    }
-  },
-  "claims": {
-    "claimDetail": [
-      {
-        "policyNumber": "EUSU2013051030",
-        "claimNumber": "0000999399",
-        "claimClassId": "Electronic and/or Sport Equipment Rental",
-        "claimStatus": "Final review",
-        "creationDate": "2020-09-20"
-      },
-      {
-        "policyNumber": "EUSU2013051030",
-        "claimNumber": "0000665399",
-        "claimClassId": "Trip Cancellation",
-        "claimStatus": "Reviewed",
-        "creationDate": "2018-12-27"
-      },
-      {
-        "policyNumber": "EUSU2013057612",
-        "claimNumber": "0007777399",
-        "claimClassId": "Ticket Cancellation, Missed Event, or Activity",
-        "claimStatus": "Final review",
-        "creationDate": "2018-10-27"
-      },
-      {
-        "policyNumber": "EUSU2013051030",
-        "claimNumber": "0009997399",
-        "claimClassId": "Loyalty Program Redeposit Fee Coverage",
-        "claimStatus": "More info needed",
-        "creationDate": "2019-10-27"
-      },
-      {
-        "policyNumber": "EUSU2013057612",
-        "claimNumber": "0008885399",
-        "claimClassId": "Electronic and/or Sport Equipment Rental",
-        "claimStatus": "Completed",
-        "creationDate": "2023-07-17"
-      },
-      {
-        "policyNumber": "EUSU2178157771",
-        "claimNumber": "0007110533",
-        "claimClassId": "Medical Evacuation",
-        "claimStatus": "Initiated",
-        "creationDate": "2023-10-15"
-      },
-      {
-        "policyNumber": "EUSU2013057612",
-        "claimNumber": "0001115399",
-        "claimClassId": "Transport After Evacuation",
-        "claimStatus": "Reviewed",
-        "creationDate": "2022-08-07"
-      }
-    ],
-    "validationResult": {
-      "code": "000",
-      "message": "No error",
-      "timeStamp": "2019-04-24T10:38:21.634Z"
-    }
-  },
-  "profile": {
-    "id": 10744,
-    "firstName": "Netherlands",
-    "lastName": "Pulikov",
-    "email": "amtravelnl@yopmail.com",
-    "phone": "+31123456786",
-    "language": "en-US",
-    "residence": "US",
-    "profileStatus": "ACTIVE",
-    "membershipStatus": "PLUS",
-    "premiumStart": "2023-08-31",
-    "premiumEnd": "2024-12-31",
-    "created": "2023-08-31T13:40:20.046387",
-    "lastChange": "2023-10-16T17:26:09.009512",
-    "firstAccess": "2023-08-31T13:42:39.982711",
-    "lastAccess": "2023-10-27T12:33:05.710417",
-    "identificationMethod": "email",
-    "membershipDuration": 489,
-    "noOfCoTravellers": 0,
-    "registrationSource": "allyz.com",
-    "signUpType": "REGULAR_REGISTRATION",
-    "termsAndConditions": true,
-    "consents": [
-      {
-        "consentType": "MARKETING",
-        "consentValue": false,
-        "partnerName": "ONE_TRUST"
-      }
-    ]
   }
 }
